@@ -1,0 +1,9 @@
+{
+  "apiRunsToKeep": 21,
+  "apiRunLogDir": "api-logs",
+  "discordNotifyOnError": true,
+  "eventID": 562,
+  "lang": "en-US",
+  "participantID": 581064,
+  "teamID": 74651
+}
